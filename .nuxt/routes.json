@@ -3,35 +3,30 @@
     "name": "inspire",
     "path": "/inspire",
     "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\ORGANIZE\\\\PHD\\\\LATEST\\\\Frontend\\\\lask\\\\pages\\\\inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_721bb414"
+    "chunkName": "pages/inspire"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\ORGANIZE\\\\PHD\\\\LATEST\\\\Frontend\\\\lask\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_1728d1a3"
+    "chunkName": "pages/login"
   },
   {
     "name": "overview",
     "path": "/overview",
     "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\ORGANIZE\\\\PHD\\\\LATEST\\\\Frontend\\\\lask\\\\pages\\\\overview.vue",
-    "chunkName": "pages/overview",
-    "_name": "_3d2bb7a2"
+    "chunkName": "pages/overview"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\ORGANIZE\\\\PHD\\\\LATEST\\\\Frontend\\\\lask\\\\pages\\\\register.vue",
-    "chunkName": "pages/register",
-    "_name": "_55167f4e"
+    "chunkName": "pages/register"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Sea-Ic\\\\Desktop\\\\ORGANIZE\\\\PHD\\\\LATEST\\\\Frontend\\\\lask\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_4d812e8c"
+    "chunkName": "pages/index"
   }
 ]
