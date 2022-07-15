@@ -48,7 +48,7 @@ export default {
       default: true, // make this the default socket
       name: 'main',
       // url: 'http://localhost:3000'
-      url: 'http://188.166.210.48:7777'
+      url: 'http://139.59.120.97:7777'
     }]
   },
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
@@ -119,7 +119,7 @@ export default {
           login: {
             // url: "http://178.128.29.241/api/auth/login",
             // url: "http://localhost:7777/api/auth/login",
-            url: "http://188.166.210.48:7777/api/auth/login",
+            url: "http://139.59.120.97:7777/api/auth/login",
             // url: "http://104.248.158.194/api/auth/login",
             method: 'post',
           },
@@ -127,7 +127,7 @@ export default {
           user: {
             // url: "http://127.0.0.1:5000/api/auth/me",
             // url: "http://localhost:7777/api/auth/me",
-            url: "http://188.166.210.48:7777/api/auth/me",
+            url: "http://139.59.120.97:7777/api/auth/me",
             // url: "http://104.248.158.194/api/auth/me",
             method: 'GET',
             // VERY IMPORTANT
